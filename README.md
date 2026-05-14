@@ -134,5 +134,5 @@ This bachelor thesis project focused on preparing a topographic map at a scale o
 ## Contact
 
 - GitHub: https://github.com/sunita-joshi
-- LinkedIn: linkedin.com/in/sunita-joshi-5449a5334
+- LinkedIn: https://www.linkedin.com/in/sunita-joshi-5449a5334
 - Email: sunitajoshi9715@gmail.com
